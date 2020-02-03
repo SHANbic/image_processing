@@ -1,6 +1,11 @@
 # image_processing
 Project #1 of my python courses, here is a jpg to png program. As the name suggests, it converts a jpg file to a png.
 
+Please first install the required library:
+```terminal
+pip3 install PIL
+```
+
 To run the program, you can clone the repo and type this line into your terminal:
 ```terminal
 python3 jpg_to_png.py /pokedex /new
