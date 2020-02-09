@@ -8,7 +8,7 @@ pip3 install PIL
 
 To run the program, you can clone the repo and type this line into your terminal:
 ```terminal
-python3 jpg_to_png.py /pokedex /new
+python3 jpg_to_png.py pokedex/ new/
 ```
 
 "/new" stands for the name of the folder that will receive the converted files. You can type any name you want.
